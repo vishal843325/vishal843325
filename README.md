@@ -2,6 +2,7 @@
 All about me
 
 Hi there, I'm <a href="https://www.linkedin.com/in/vishal-kumar-33491b300?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">Vishal Kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-kumar-33491b300?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vishal.kumar2225/vizzes)
 
